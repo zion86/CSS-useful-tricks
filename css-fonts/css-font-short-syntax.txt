@@ -1,0 +1,6 @@
+font short syntax:
+
+/*     style   |  variant    | weight | stretch   | size / line-height | family */
+font:  italic     small-caps   bolder   condensed   16px / 1.5           cursive;
+
+font:  italic small-caps bolder condensed 16px / 1.5 cursive;
