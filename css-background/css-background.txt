@@ -1,4 +1,4 @@
-background short syntax:
+background shorthand properties:
 
             color     picture       hor-pos  gap  vert gap    hor-sz  ver-sz   repeating  fix pic  pos-orig     show back-pic
 background: #454545   url(pig.jpg)  bottom   10px left 10px / 100%    100%     no-repeat  scroll   padding-box  content-box
