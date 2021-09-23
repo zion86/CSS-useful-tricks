@@ -5,7 +5,8 @@ background: #454545   url(pig.jpg)  bottom   10px left 10px / 100%    100%     n
 background: #454545   url(pig.jpg)  top center / cover no-repeat;
 
 backgroun-color: #454545;
-background-image: url("mockup.jpg");
+background-image: url("images/mockup.jpg");
+background-position: ;
 
 multiple backgrounds:
 
