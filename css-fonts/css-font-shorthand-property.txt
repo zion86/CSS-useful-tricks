@@ -1,11 +1,11 @@
-CSS font shorthand property:
+/* CSS font shorthand property: */
 
-/*    style  | variant    | weight | stretch   | size / line-height | family   */
+/*    style  | variant    | weight | stretch   | size / line-height | family
 font: italic | small-caps | bolder | condensed | 16px / 1.5         | cursive;
-
+*/
 font: italic small-caps bolder condensed 16px / 1.5 cursive;
 
-values by default:
+/* values by default: */
 font-style: normal;
 font-variant: normal;
 font-weight: normal;
