@@ -1,16 +1,18 @@
-t     top
-r     right
-b     bottom
-l     left
+/*
+  t     top
+  r     right
+  b     bottom
+  l     left
+*/
 
-         t-r-b-l
+/*       t-r-b-l       */
 padding: 30px;
 
-         t-b  l-r
+/*       t-b  l-r       */
 padding: 50px 30px;
 
-         t    l-r  b
+/*       t    l-r  b       */
 padding: 50px 30px 50px;
 
-         t    r    b    l
+/*       t    r    b    l       */
 padding: 10px 20px 30px 40px;
