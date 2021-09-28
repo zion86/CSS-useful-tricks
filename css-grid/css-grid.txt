@@ -1,4 +1,4 @@
-// GRID CONTAINER
+/* GRID CONTAINER */
 - initialization
 display: grid;
 
@@ -22,14 +22,14 @@ row-gap: 10px;                                gap: 10px 30px;
 column-gap: 30px;
 
 - using template grid area
-  grid parent                                 grid children
+  /* grid parent */                           /* grid children */
 grid-template-areas:                          .css-class-name {
   "<grid-area-name> <grid-area-name>"           grid-area: <grid-area-name>;
   "<grid-area-name> ."                        }
 
 ----------------------------------------------------------------------------------------
 
-// grid children
+/* GRID CHILDREN */
 - grid children position
 grid-row-start: 1;      grid-row: 1 / 3;      grid-area: row-start / column-start / row-end / column-end
 grid-row-end: 3;                              grid-area: 1 / 1 / 3 / 4;
@@ -38,7 +38,7 @@ grid-column-end: 4;
 
 ----------------------------------------------------------------------------------------
 
-// GRID FUNCTIONS
+/* GRID FUNCTIONS */
 auto-fill                     // shrinks all elements by default to min-width
 auto-fit                      // grows all elements by default
 
