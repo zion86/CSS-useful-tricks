@@ -1,4 +1,4 @@
-1 inch: 2.54cm
+/* 1 inch: 2.54cm */
 
 PPI: Pixel Per Inch
 DPR: Device Pixel Ratio
