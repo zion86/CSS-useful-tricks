@@ -1,6 +1,6 @@
 CSS font size:
 
-value       naming
+/*    naming    */
 1   xx-small    xxs
 2   x-small     xs
 3   small       sm
@@ -10,8 +10,10 @@ value       naming
 7   xx-large    xxl
 8   xxx-large   xxxl
 
-font weight:
-value       common weight name
+/*
+  font weight:
+  value     common weight name
+*/
 
 100         Thin (Hairline)
 200         Extra Light (Ultra Light)
