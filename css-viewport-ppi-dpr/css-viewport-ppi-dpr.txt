@@ -5,12 +5,10 @@ DPR: Device Pixel Ratio
 DPI: Dots Per Inch
 CSS Viewport
 
-
 PPI             DPR
 <200            1
 200 - 300       1.5
 >300            PPI : 150 (2, 2.5, 3, 3.5, 4, ...)
-
 
 Display: 5.50 inches
 Display Physical Resolution:
@@ -21,7 +19,7 @@ Display Physical Resolution:
 1920 * 1920 = 3686400
 1166400 + 3686400 = 4852800
 
-diagonal resolution in pixels:
+/* diagonal resolution in pixels: */
   _______
 \/4852800 = 2202.907
 
